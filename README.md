@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Miklo 👋
 
-<!--
-**MrMiklo1/MrMiklo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I transitioned into the IT field about a year ago and am currently pursuing a **B.S. in Cybersecurity Technology**. 
+I'm building practical experience through coursework, labs, and personal projects while continuing to strengthen my foundation in IT, networking, cloud, and cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on learning by building, troubleshooting, and documenting real-world projects. 
+My current work includes a **Raspberry Pi 5 self-hosted server**, cloud labs, networking exercises, and security-focused projects as I continue developing toward a career in **IT and cybersecurity**.
+
+## Tools & Technologies
+
+**Linux • Raspberry Pi • Docker • Docker Compose • SSH • Networking • TCP/IP 
+• AWS • Azure • Samba • Tailscale • GitHub • Cybersecurity Fundamentals**
+
